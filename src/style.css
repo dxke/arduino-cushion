@@ -1,1 +1,24 @@
+#increase {
+  background-color: green;
+}
 
+#decrease {
+  background-color: red;
+}
+
+div {
+  margin-bottom: 40px;
+}
+
+body {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
